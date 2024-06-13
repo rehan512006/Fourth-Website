@@ -1,0 +1,4 @@
+body{background-color: peru;}
+p{color: blue;}
+h1{color: red;}
+h1, p{background-color: black;}
